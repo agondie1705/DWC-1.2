@@ -54,6 +54,6 @@ Escenario E: <script type="module"> en el <head>.
 
 <img width="1849" height="709" alt="image" src="https://github.com/user-attachments/assets/6872241d-a66c-4438-a36d-03b5ffd38863" />
 
-Esta imagen vemos como funciona el Type module que le hemos puesto al innertext es verdad que tarda más de lo normal ya que analiza el html mientras descarga el javascript despues de descargarse el módulo se puede usar cosas como import y export
+Esta imagen vemos como funciona el Type module que le hemos puesto al innertext es verdad que tarda más de lo normal ya que analiza el html mientras descarga el javascript despues de descargarse el módulo se logran usar acciones como import y export
 
 
