@@ -12,8 +12,8 @@ Entregar informe + capturas en el repositorio.
 
 Actividad 2 – defer vs async vs modules
 
-Crear un proyecto HTML con un <h1>.
-Crear 3 JS pesados con un bucle de 50 millones y que cambien el <h1>.
+Crear un proyecto HTML con un <--h1-->.
+Crear 3 JS pesados con un bucle de 50 millones y que cambien el <--h1-->.
 Probar 5 formas de incluirlos:
 <script> en <head>
 <script> antes de </body>
